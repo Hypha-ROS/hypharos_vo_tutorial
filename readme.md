@@ -12,7 +12,7 @@ Recommend to setup a new virtualenv first.
 * `$ mkvirtualenv hypharos-vo --python=python3`  
 * `$ workon hypharos-vo`  
 * `$ cd WORKSPACE_PATH/hypharos_vo_tutorial`  
-* `$ pip install -r requirement.txt`  
+* `$ pip install -r requirements.txt`  
 
 ## Download Kitti Dataset
 The example in this package uses the 00 sequence of Kitti Odometry Dataset  
